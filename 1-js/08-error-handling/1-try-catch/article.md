@@ -83,7 +83,7 @@ It won't work if the code is syntactically wrong, for instance it has unmatched 
 
 ```js run
 try {
-  {{{{{{{{{{{{
+  \{\{\{\{\{\{\{\{\{\{\{\{
 } catch(e) {
   alert("The engine can't understand this code, it's invalid");
 }
